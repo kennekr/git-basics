@@ -3,6 +3,7 @@ fil
 med en 
 del linjer
 og innhold
-Endringer er 
-lagt til i 
-filen
+Testing
+Ny testing 
+på en egen linje
+En ny commit på veg inn
