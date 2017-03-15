@@ -7,3 +7,4 @@ Testing
 Ny testing 
 på en egen linje
 En ny commit på veg inn
+saddsdsa
